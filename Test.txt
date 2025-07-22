@@ -1,0 +1,1 @@
+This is my first trial to add project from Git Bash to GitHub.
